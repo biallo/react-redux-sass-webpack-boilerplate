@@ -1,6 +1,6 @@
 # react-redux-sass-webpack-boilerplate
 
-A boilerplate using React, Redux, React-Router-Dom, Sass, Webpack
+A boilerplate using React, React-Redux, React-Router-Dom, Sass, Webpack
 
 ## Language
 
@@ -10,7 +10,7 @@ A boilerplate using React, Redux, React-Router-Dom, Sass, Webpack
 ## Project dependencies
 
 - [React](https://reactjs.org)
-- [Redux](https://github.com/reduxjs/redux)
+- [React-Redux](https://react-redux.js.org/)
 - [React-Router-Dom](https://v5.reactrouter.com/web/guides/quick-start)
 - [Sass](https://sass-lang.com)
 - [Webpack](https://webpack.js.org)

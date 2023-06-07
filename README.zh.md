@@ -1,6 +1,6 @@
 # react-redux-sass-webpack-boilerplate
 
-一个使用 React, Redux, React-Router-Dom, Sass, Webpack 的简单样板
+一个使用 React, React-Redux, React-Router-Dom, Sass, Webpack 的简单样板
 
 ## 语言
 
@@ -10,7 +10,7 @@
 ## 项目依赖
 
 - [React](https://reactjs.org)
-- [Redux](https://github.com/reduxjs/redux)
+- [React-Redux](https://react-redux.js.org/)
 - [React-Router-Dom](https://v5.reactrouter.com/web/guides/quick-start)
 - [Sass](https://sass-lang.com)
 - [Webpack](https://webpack.js.org)

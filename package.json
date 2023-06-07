@@ -1,7 +1,7 @@
 {
   "name": "react-redux-sass-webpack-boilerplate",
   "version": "1.0.0",
-  "description": "A boilerplate using React, Redux, Sass, Webpack",
+  "description": "A boilerplate using React, React-Redux, Sass, Webpack",
   "scripts": {
     "start": "NODE_ENV=development webpack serve",
     "build": "NODE_ENV=production webpack"
