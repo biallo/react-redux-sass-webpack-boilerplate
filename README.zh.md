@@ -1,9 +1,11 @@
 # react-redux-sass-webpack-boilerplate
 
+一个使用 React, Redux, React-Router-Dom, Sass, Webpack 的简单样板
+
+## 语言
+
 - 中文
 - [English](README.md)
-
-一个使用 React, Redux, React-Router-Dom, Sass, Webpack 的简单样板
 
 ## 项目依赖
 
