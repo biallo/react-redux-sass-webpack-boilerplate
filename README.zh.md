@@ -17,7 +17,8 @@
 
 ## 环境依赖
 
-Make sure you have Node.js >= 18.0.0 installed on your machine.
+确保环境中的 node.js 版本不低于 v18
+
 
 ## 安装
 
